@@ -24,6 +24,7 @@ def is_valid(path):
        'Help:' in path or \
        'Category:' in path or \
        'User:' in path or \
+       'talk:' in path or \
        'Special:' in path or \
        'Portal:' in path or \
        'Template:' in path:
@@ -75,6 +76,7 @@ for i in range(num_of_visits):
 
     #returning a random link to go to
     if len(url_list) == 0:
+        print 'No links found, starting at a random page'
         current_url = random_url
     else:
         current_url = random.choice(url_list)
