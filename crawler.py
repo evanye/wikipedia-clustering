@@ -1,5 +1,5 @@
 import urllib, urlparse
-import random
+import random, operator
 from collections import defaultdict
 from bs4 import BeautifulSoup
 
@@ -15,8 +15,21 @@ def domain(url):
     hostname = ".".join(len(hostname[-2]) < 4 and hostname[-3:] or hostname[-2:])
     return hostname
 
-def normalize(url):
-    pass
+def is_valid(path):
+    if path[:6] != '/wiki/':
+        return False
+
+    if path[:10] == '/wiki/File' or \
+       'Wikipedia:' in path or \
+       'Help:' in path or \
+       'Category:' in path or \
+       'User:' in path or \
+       'Special:' in path or \
+       'Portal:' in path or \
+       'Template:' in path:
+        return False
+
+    return True
 
 def parse_links(url):
     url_list = []
@@ -34,7 +47,7 @@ def parse_links(url):
         #find all hyperlinks using beautiful soup
         for tag in content.findAll('a', href=True):
             path = tag['href'].encode('ascii', 'ignore')
-            if path[:6] == '/wiki/' and path[:10] != '/wiki/File':
+            if is_valid(path):
                 link = 'http://en.wikipedia.org' + path
                 url_list.append(link)
         return title, url_list
@@ -47,7 +60,7 @@ random_url = "http://en.wikipedia.org/wiki/Special:Random"
 current_url = random_url
 
 #parameter to set the number of transitions you make/different pages you visit
-num_of_visits = 100
+num_of_visits = 1000
 
 #dictionary of pages visited so far
 visit_history = defaultdict(int)
@@ -66,4 +79,7 @@ for i in range(num_of_visits):
     else:
         current_url = random.choice(url_list)
 
-print visit_history
+visits = [(url, visit_history[url]) for url in visit_history if visit_history[url] > 2]
+sorted_visits = sorted(visits, key=operator.itemgetter(1))
+
+print sorted_visits
