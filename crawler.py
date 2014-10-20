@@ -44,13 +44,13 @@ def parse_links(url):
 
         title = soup.find(id='firstHeading').span.text.encode('ascii', 'ignore')
         content = soup.find(id='mw-content-text')
-
         #find all hyperlinks using beautiful soup
-        for tag in content.findAll('a', href=True):
-            path = tag['href'].encode('ascii', 'ignore')
-            if is_valid(path):
-                link = 'http://en.wikipedia.org' + path
-                url_list.append(link)
+        for p in content.findAll('p'):
+            for tag in p.findAll('a', href=True):
+                path = tag['href'].encode('ascii', 'ignore')
+                if is_valid(path):
+                    link = 'http://en.wikipedia.org' + path
+                    url_list.append(link)
         return title, url_list
     except Exception as e:
         print e
@@ -61,7 +61,7 @@ random_url = "http://en.wikipedia.org/wiki/Special:Random"
 current_url = random_url
 
 #parameter to set the number of transitions you make/different pages you visit
-num_of_visits = 1000
+num_of_visits = 10000
 
 #dictionary of pages visited so far
 visit_history = defaultdict(int)
@@ -69,7 +69,7 @@ visit_history = defaultdict(int)
 for i in range(num_of_visits):
     #parsing all the links on the page
     title, url_list = parse_links(current_url)
-    print 'Visiting... ', title
+    print 'Visiting... {0}, url: {1}'.format(title, current_url)
 
     #incrementing the counts
     visit_history[title] += 1
