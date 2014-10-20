@@ -66,7 +66,10 @@ num_of_visits = 2000
 
 for _ in range(100):
     #the url we want to begin with
-    start_url = random.choice(parse_links(random_url)[1])
+    title, links = parse_links(random_url)
+    if len(links) == 0:
+        continue
+    start_url = random.choice(links)
     current_url = start_url
 
     #dictionary of pages visited so far
