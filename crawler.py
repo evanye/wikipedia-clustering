@@ -3,6 +3,8 @@ import random, operator
 from collections import defaultdict
 from bs4 import BeautifulSoup
 
+data_file = open("data.txt", "a")
+
 #http://wolfprojects.altervista.org/articles/change-urllib-user-agent/
 class MyOpener(urllib.FancyURLopener):
    version = 'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15'
@@ -25,6 +27,7 @@ def is_valid(path):
        'Category:' in path or \
        'User:' in path or \
        'talk:' in path or \
+       'Talk:' in path or \
        'Special:' in path or \
        'Portal:' in path or \
        'Template:' in path or \
@@ -59,32 +62,34 @@ def parse_links(url):
 random_url = "http://en.wikipedia.org/wiki/Special:Random"
 
 #parameter to set the number of transitions you make/different pages you visit
-num_of_visits = 100
+num_of_visits = 2000
 
-#the url we want to begin with
-start_url = random.choice(parse_links(random_url)[1])
-current_url = start_url
+for _ in range(100):
+    #the url we want to begin with
+    start_url = random.choice(parse_links(random_url)[1])
+    current_url = start_url
 
-#dictionary of pages visited so far
-visit_history = defaultdict(int)
+    #dictionary of pages visited so far
+    visit_history = defaultdict(int)
 
-for i in range(num_of_visits):
-    #parsing all the links on the page
-    title, url_list = parse_links(current_url)
-    print 'Visiting... {0}, url: {1}'.format(title, current_url)
+    for i in range(num_of_visits):
+        #parsing all the links on the page
+        title, url_list = parse_links(current_url)
+        print 'Visiting... {0}, url: {1}'.format(title, current_url)
 
-    #incrementing the counts
-    visit_history[title] += 1
+        #incrementing the counts
+        visit_history[title] += 1
 
-    #returning a random link to go to
-    if len(url_list) == 0:
-        print 'No links found, starting at beginning page'
-        current_url = start_url
-    else:
-        current_url = random.choice(url_list)
+        #returning a random link to go to
+        if len(url_list) == 0:
+            print 'No links found, starting at beginning page'
+            current_url = start_url
+        else:
+            current_url = random.choice(url_list)
 
-visits = [(url, visit_history[url]) for url in visit_history if visit_history[url] > 2]
-sorted_visits = sorted(visits, key=operator.itemgetter(1))
+    visits = [(url, visit_history[url]) for url in visit_history if visit_history[url] > 2]
+    sorted_visits = sorted(visits, key=operator.itemgetter(1))
 
-print 'started at: ' + start_url
-print sorted_visits
+    data_file.write('started at: ' + start_url)
+    data_file.write(str(sorted_visits))
+    data_file.write('\n')
