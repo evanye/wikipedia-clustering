@@ -27,7 +27,8 @@ def is_valid(path):
        'talk:' in path or \
        'Special:' in path or \
        'Portal:' in path or \
-       'Template:' in path:
+       'Template:' in path or \
+       'International_Standard_Book_Number' in path:
         return False
 
     return True
@@ -45,23 +46,24 @@ def parse_links(url):
         title = soup.find(id='firstHeading').span.text.encode('ascii', 'ignore')
         content = soup.find(id='mw-content-text')
         #find all hyperlinks using beautiful soup
-        for p in content.findAll('p'):
-            for tag in p.findAll('a', href=True):
-                path = tag['href'].encode('ascii', 'ignore')
-                if is_valid(path):
-                    link = 'http://en.wikipedia.org' + path
-                    url_list.append(link)
+        for tag in content.findAll('a', href=True):
+            path = tag['href'].encode('ascii', 'ignore')
+            if is_valid(path):
+                link = 'http://en.wikipedia.org' + path
+                url_list.append(link)
         return title, url_list
     except Exception as e:
         print e
         return None, []
 
-#the url we want to begin with
 random_url = "http://en.wikipedia.org/wiki/Special:Random"
-current_url = random_url
 
 #parameter to set the number of transitions you make/different pages you visit
-num_of_visits = 10000
+num_of_visits = 100
+
+#the url we want to begin with
+start_url = random.choice(parse_links(random_url)[1])
+current_url = start_url
 
 #dictionary of pages visited so far
 visit_history = defaultdict(int)
@@ -76,12 +78,13 @@ for i in range(num_of_visits):
 
     #returning a random link to go to
     if len(url_list) == 0:
-        print 'No links found, starting at a random page'
-        current_url = random_url
+        print 'No links found, starting at beginning page'
+        current_url = start_url
     else:
         current_url = random.choice(url_list)
 
 visits = [(url, visit_history[url]) for url in visit_history if visit_history[url] > 2]
 sorted_visits = sorted(visits, key=operator.itemgetter(1))
 
+print 'started at: ' + start_url
 print sorted_visits
