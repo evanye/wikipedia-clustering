@@ -37,7 +37,7 @@ def is_valid(path):
     return True
 
 def parse_links(url):
-    url_list = []
+    url_list = set() 
     myopener = MyOpener()
     try:
         #open, read, and parse the text using beautiful soup
@@ -53,8 +53,14 @@ def parse_links(url):
             path = tag['href'].encode('ascii', 'ignore')
             if is_valid(path):
                 link = 'http://en.wikipedia.org' + path
-                url_list.append(link)
-        return title, url_list
+                url_list.add(link)
+	
+	for tag in content.findAll('a', href=True, class_="reflist"):
+            path = tag['href'].encode('ascii', 'ignore')
+	    link = 'http://en.wikipedia.org' + path
+	    url_list.remove(link)
+
+        return title, list(url_list)
     except Exception as e:
         print e
         return None, []
@@ -94,5 +100,6 @@ for _ in range(100):
     sorted_visits = sorted(visits, key=operator.itemgetter(1))
 
     data_file.write('started at: ' + start_url)
+    data_file.write('\n')
     data_file.write(str(sorted_visits))
     data_file.write('\n')
