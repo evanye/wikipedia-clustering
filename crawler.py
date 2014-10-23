@@ -84,7 +84,7 @@ for _ in range(100):
     for i in range(num_of_visits):
         #parsing all the links on the page
         title, url_list = parse_links(current_url)
-        print 'Visiting... {0}, url: {1}'.format(title, current_url)
+        print 'Visiting... #{0}: {1}, url: {2}'.format(i, title, current_url)
 
         #incrementing the counts
         visit_history[title] += 1
@@ -99,6 +99,7 @@ for _ in range(100):
     visits = [(url, visit_history[url]) for url in visit_history if visit_history[url] > 2]
     sorted_visits = sorted(visits, key=operator.itemgetter(1))
 
+    print "writing\n{}".format(sorted_visits)
     data_file.write('started at: ' + start_url)
     data_file.write('\n')
     data_file.write(str(sorted_visits))

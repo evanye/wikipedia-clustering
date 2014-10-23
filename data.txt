@@ -126,3 +126,93 @@ started at: http://en.wikipedia.org/wiki/U.S._Route_40_Alternate_(Keysers_Ridge%
 [('British Columbia', 3), ('United Kingdom', 3), ('Beizama (Gipuzkoa)', 3), ('England', 3), ('PubMed', 4), ('Latin', 5), ('Geographic coordinate system', 6), ('Digital object identifier', 10)]
 started at: http://en.wikipedia.org/wiki/Regular_season
 [('UEFA Europa League', 3), ('Spain', 3), ('The Football Association', 3), ('Major League Baseball', 3), ('Wales', 3), ('World War II', 3), ('Portugal', 3), ('Swansea City A.F.C.', 3), ('Formula One', 3), ('Geographic coordinate system', 3), ('Russia', 3), ('Belarus', 3), ('Argentina', 3), ('England', 3), ('South Korea', 4), ('New Zealand', 4), ('Michigan', 4), ('Brazil', 4), ('Tennis', 4), ('Copa Libertadores', 4), ('Italy', 4), ('Ice hockey', 4), ('PubMed', 4), ('Baseball', 5), ('Motorsport', 6), ('Australia', 6), ('France', 6), ('Rugby union', 7), ('China', 7), ('United States', 9), ('Association football', 10), ('Basketball', 11), (None, 188), ('Season (sports)', 189)]
+started at: http://en.wikipedia.org/wiki/Are_We_Done_Yet%3F
+[('Time zone', 3), ('Australia', 4), ('Geographic coordinate system', 4), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/Municipality_of_Cankova
+[('Baptists', 3), ('Chlorine dioxide', 3), ('France', 3), ('Geographic coordinate system', 3), ('Martin Heidegger', 3), ('Library of Congress Control Number', 4)]
+started at: http://en.wikipedia.org/wiki/Sunningas
+[('Map projection', 3), ('Russia', 3), ('700 (number)', 3), ('Netherlands', 3), ('China', 3), ('Library of Congress Control Number', 4), ('United States', 4), ('Geographic coordinate system', 4), ('800 (number)', 6)]
+started at: http://en.wikipedia.org/wiki/Ashio_Copper_Mine
+[('Nicene Creed', 3), ('Authority control', 3), ('PubMed', 3), ('Southwestern Athletic Conference', 3), ('Brazil', 4), ('Geographic coordinate system', 4)]
+started at: http://en.wikipedia.org/wiki/Authority_control
+[('Russian Empire', 3), ('French language', 3), ('Greek language', 3), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Portico
+[('United Kingdom', 3), ('The Rebel Son', 3), ('Devonian', 3), ('Geographic coordinate system', 3), ('Canada', 4)]
+started at: http://en.wikipedia.org/wiki/Geographic_coordinate_system
+[('Qinshui County', 3), ('Kosalar, Qazakh', 3), ('Alpout, Qazakh', 3), ('Halakha', 3), ('Russia', 3), ('Qarapapaq', 3), ('Integrated Authority File', 4), ('Geographic coordinate system', 5), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/Barbra_Streisand
+[('Portuguese language', 3), ('Norway', 4)]
+started at: http://en.wikipedia.org/wiki/Local_anesthetic_toxicity
+[('Arabic language', 3), ('Chemical nomenclature', 3), ('United States', 3), ('700 (number)', 3), ('Pretty Mouth and Green My Eyes', 3), ('Digital object identifier', 4), ('PubMed', 5), ('A roads in Zone 3 of the Great Britain numbering scheme', 5), ('Geographic coordinate system', 6)]
+started at: http://en.wikipedia.org/wiki/Dundee_United_F.C.
+[('World War II', 3), ('United States', 3), ('Belgium', 3), ('Graphics display resolution', 3), ('Verb', 3)]
+started at: http://en.wikipedia.org/wiki/Vaz/Obervaz
+[('Virtual International Authority File', 3), ('Digital object identifier', 3), ('Daylight saving time', 3), ('International Standard Name Identifier', 3), ('Atlantic Division (NBA)', 3), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Time_zone
+[('Russia', 3), ('PubMed', 3), ('India', 3), ('Geographic coordinate system', 4), ('United States', 6)]
+started at: http://en.wikipedia.org/wiki/Manilita_(mango)
+[('Library of Congress Control Number', 3), ('800 (number)', 3), ('300 (number)', 3), ('Germany', 4), ('PubMed', 5), ('United States', 6)]
+started at: http://en.wikipedia.org/wiki/The_Hero_Initiative
+[('Mexico', 3), ('Democracy', 3), ('Authority control', 4), ('United States', 4)]
+started at: http://en.wikipedia.org/wiki/Synonym_(taxonomy)
+[('Punctuation', 3), ('Triple top and triple bottom', 3), ('Digital object identifier', 3), ('Tasmania', 3), ('Bibcode', 3), ('Geographic coordinate system', 4), ('World War II', 4)]
+started at: http://en.wikipedia.org/wiki/Kang_Soo-yeon
+[('I Sell Anything', 3), ('Library of Congress', 3), ('Digital object identifier', 3), ('Geographic coordinate system', 3), ('Integrated Authority File', 3), ('Electronics', 3)]
+started at: http://en.wikipedia.org/wiki/Bobby_Jones_(golfer)
+[('French language', 3), ('Virtual International Authority File', 3), ('Carbon dioxide', 3), ('Springer Science+Business Media', 3), ('YouTube', 3), ('Geographic coordinate system', 8)]
+started at: http://en.wikipedia.org/wiki/Hound_Dog_(song)
+[('International Standard Serial Number', 3), ('Oradour-sur-Glane', 3), ('Latin', 3), ('Digital object identifier', 3), ('Geographic coordinate system', 3), ('Glottolog', 3), ('List of bus routes in London', 4)]
+started at: http://en.wikipedia.org/wiki/Phobaeticus_kirbyi
+[('Charles Ammi Cutter', 3), ('Tertiary sector of the economy', 3), ('European Union', 3), ('Digital object identifier', 3), ('Geographic coordinate system', 3), ('Russia', 3), ('Mathematics', 3), ('Melvil Dewey', 3), ('Seth Meribre', 3), ('United States', 4)]
+started at: http://en.wikipedia.org/wiki/Cornelis_Cruys
+[('Supreme intercostal vein', 3), ('Telecommunications in Austria', 3), ('Public transport in Istanbul', 3), ('Inferior gluteal veins', 3), ('Latin', 3), ('Digital object identifier', 3), ('Integrated Authority File', 3), ('PubMed', 3), ('Cornelius Cruys', 3), ('Geographic coordinate system', 4), ("Transport and General Workers' Union", 4), ('New Brunswick School District 17', 6)]
+started at: http://en.wikipedia.org/wiki/1968_Monaco_Grand_Prix
+[('Heilles', 3), ('Ministry of Ecology, Sustainable Development and Energy', 3), ('Asnires-en-Bessin', 3), ('Daylight saving time', 3), ('Digital object identifier', 4), ('United States', 4), ('Geographic coordinate system', 4)]
+started at: http://en.wikipedia.org/wiki/The_Book_of_One_Thousand_and_One_Nights
+[('Anse-aux-Pins', 3), ('Authority control', 3), ('Virtual International Authority File', 3), ('British Army officer rank insignia', 3), ('Language family', 3), ('PubMed', 3), ('Ardahan Province', 3), ('United States', 5), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/John_Cage
+[('World War I', 3), ('Authority control', 3), ('Geographic coordinate system', 3), ('PubMed', 3), ('Lend-Lease', 3)]
+started at: http://en.wikipedia.org/wiki/Java_(programming_language)
+[('Catholic Church', 3), ('Badevel', 3), ('Cussey-sur-Lison', 3), ('Free Access to Law Movement', 3), ('Palau', 4), ('Arabic language', 4), ('United States', 4), ('Geographic coordinate system', 4), ('United Kingdom', 5)]
+started at: http://en.wikipedia.org/wiki/Austria
+[('European Free Trade Association', 3), ('Austria', 3), ('World War II', 3), ('Virtual International Authority File', 3), ('Mobile phone', 3), ('Belgium', 3), ('The New York Times', 3), ('United States', 4), ('Geographic coordinate system', 4)]
+started at: http://en.wikipedia.org/wiki/Nechaq
+[('Spain', 3), ('Slovakia', 3), ('Trichoblastoma', 3), ('United States', 3), ('Geographic coordinate system', 3), ('United Kingdom', 4), ('The New York Times', 4)]
+started at: http://en.wikipedia.org/wiki/RFD-TV
+[('Lisbon', 3)]
+started at: http://en.wikipedia.org/wiki/Convenience_store
+[('Domliers', 3), ('Spain', 3), ('Dynasty', 3), ('Portugal', 3), ('Solomon Islands', 3), ('Tricot, Oise', 3), ('900 (number)', 6), ('United States', 6), ('Geographic coordinate system', 8)]
+started at: http://en.wikipedia.org/wiki/Roc_Nation
+[('International Standard Serial Number', 3), ('Authority control', 3), ('Time zone', 3)]
+started at: http://en.wikipedia.org/wiki/American_football_positions
+[("L'Estre", 3), ('Plato', 3), ('Mirebalais Arrondissement', 3), ('Port-au-Prince Arrondissement', 3), ('Geographic coordinate system', 3), ('Russian language', 3), ('Turkey', 3), ('Authority control', 4), ('New York City', 4), ('Arrondissements of Haiti', 4), ('PubMed', 4)]
+started at: http://en.wikipedia.org/wiki/Black_history_in_Puerto_Rico
+[('Sovereign state', 3), ('Integrated Authority File', 3), ('Virtual International Authority File', 3), ('Politics', 3), ('Digital object identifier', 5), ('France', 5)]
+started at: http://en.wikipedia.org/wiki/Administrative_divisions_of_Greece
+[('Oudon', 3), ('Census-designated place', 3), ('Integrated Authority File', 3), ('Geographic coordinate system', 4), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/Coyuca_de_Catal%C3%A1n
+[('Atenango del Ro (municipality)', 3), ('Cinereus ringtail possum', 3), ('Singaporean nationality law', 3), ('Northern common cuscus', 3), ('Arctic Ocean', 3), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Chemical_formula
+[('Digital object identifier', 3), ('', 4), ('United States', 5), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Vitamin
+[('Communications in Somalia', 3), ('World War II', 3), (None, 3), ('Online Mendelian Inheritance in Man', 3), ('Photography', 3), ('Vitamin', 4)]
+started at: http://en.wikipedia.org/wiki/United_States
+[('United Kingdom', 3), ('UTC04:00', 3), ('Geographic Names Information System', 4), ('India', 5), ('United States', 6)]
+started at: http://en.wikipedia.org/wiki/Bronze_Star_Medal
+[('India', 3)]
+started at: http://en.wikipedia.org/wiki/Fork_(software_development)
+[('Soil', 3), ('PubMed', 3), ('Digital object identifier', 7)]
+started at: http://en.wikipedia.org/wiki/Chicago
+[('Michael Pssinger', 3), ('Authority control', 3), ('Bible', 3), ('Hinge', 3), ('United States', 3), ('France', 4), ('Geographic coordinate system', 9)]
+started at: http://en.wikipedia.org/wiki/Control_Machete
+[('Arabic language', 3), ('Digital object identifier', 3), ('Geographic coordinate system', 3), ('Glottolog', 3), ('Authority control', 4)]
+started at: http://en.wikipedia.org/wiki/Talkheh_Dan-e_Bozorg_Amirabad
+[('Internet Movie Database', 3), ('List of public universities in France', 3), ('Mexico', 3), ('United States', 3), ('California', 3), ('Digital object identifier', 4), ('Greece', 4), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Erik_the_Red_(comics)
+[('Authority control', 3), ('Virtual International Authority File', 3), ('Geographic coordinate system', 3), ('London', 3), ('International Standard Name Identifier', 3), ('Office Open XML', 3), ('Digital object identifier', 4), ('United States', 5)]
+started at: http://en.wikipedia.org/wiki/Jason_James_(disambiguation)
+[('Succession of states', 3), ('Fiqh', 3), ('Digital object identifier', 3), ('Virtual International Authority File', 3), ('Paris', 3)]
+started at: http://en.wikipedia.org/wiki/A%C3%AFn_Djasser
+[('International Phonetic Alphabet', 3), ('Portugal', 3), ('Bombe Gulf', 3), ('Russian language', 3), ('International Standard Name Identifier', 3), ('Argentina', 3), ('Integrated Authority File', 3), ('United States', 4), ('Tara Khl', 4)]
+started at: http://en.wikipedia.org/wiki/Tucson,_Arizona
+[('Napoleon', 3), ('Pakistan', 3), ('Chapter I of the Constitution of Australia', 4), ('Chapter II of the Constitution of Australia', 4)]
