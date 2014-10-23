@@ -9,6 +9,7 @@ import ast
 import matplotlib.pyplot as plt
 from calc_tsne import calc_tsne
 from tsne import tsne_dist_matrix
+from bhattacharyya import bhattacharyya
 
 def read_data_into_dict(file_name):
     start_pages_to_distribution = {}
@@ -35,24 +36,13 @@ def gen_sparse_features_from_distrs(distrs):
         for key, value in distrs[distr].items():
             features[i, index_of[key]] = value
     return features
-    
-
-def distance(distr1, distr2):
-    differences = []
-    for key in distr1:
-        other_value = 0 if key not in distr2 else distr2[key]
-        differences.append(distr1[key] - other_value)
-    for key in distr2:
-        if key not in distr1:
-            differences.append(distr2[key])
-    return np.sqrt(np.sum(np.square(differences)))
 
 def distance_matrix(distrs):
     distrs = distrs.values()
     distances = np.zeros((len(distrs), len(distrs)))
     for i in xrange(len(distrs)):
         for j in xrange(len(distrs)):
-            distances[i,j] = distance(distrs[i], distrs[j])
+            distances[i,j] = bhattacharyya(distrs[i], distrs[j])
     return distances
 
 class Plotter:
