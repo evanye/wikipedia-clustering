@@ -3,7 +3,7 @@ import random, operator
 from collections import defaultdict
 from bs4 import BeautifulSoup
 
-data_file = open("data.txt", "a")
+data_file = open("../results/data.txt", "a")
 
 #http://wolfprojects.altervista.org/articles/change-urllib-user-agent/
 class MyOpener(urllib.FancyURLopener):
