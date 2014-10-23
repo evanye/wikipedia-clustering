@@ -1,0 +1,128 @@
+started at: http://en.wikipedia.org/wiki/Brzoz%C3%B3w_County
+[('United States', 4), ('PubMed', 5), ('Digital object identifier', 6)]
+started at: http://en.wikipedia.org/wiki/Sexual_anhedonia
+[('India', 3), ('Geographic coordinate system', 3), ('African Union', 4), ('Virtual International Authority File', 4), ('United States', 6), ('PubMed', 6), ('Digital object identifier', 9)]
+started at: http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario
+[('United Nations', 3), ('Monaco', 3), ('Geographic coordinate system', 3), ('PubMed Central', 4), ('United States', 6), ('PubMed', 7), ('Digital object identifier', 12)]
+started at: http://en.wikipedia.org/wiki/2014%E2%80%9315_Nemzeti_Bajnoks%C3%A1g_I
+[('Master of Arts', 3), ('Unicode', 3), ('United States', 3), ('Communes of France', 3), ('Martian meteorite', 3), ('Geographic coordinate system', 4), ('PubMed', 4), ('Bibcode', 4), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Gmina_Tczew
+[('Walker Percy', 3), ('List of kings of Lydia', 3), ('Sweden', 3), ('Major League Baseball', 3), ('United States', 3), ('Tove of the Obotrites', 3), ('Shanghai', 3), ('Gmina Tczew', 3), ('Geographic coordinate system', 4), ('PubMed', 4), ('United Kingdom', 5), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/Israel%E2%80%93Gaza_barrier
+[('Ancient Greek', 3), ('Unincorporated area', 3), ('Stress (linguistics)', 3), ('United States', 3), ('Dependent territory', 3), ('Digital object identifier', 11)]
+started at: http://en.wikipedia.org/wiki/Pencarrow_(New_Zealand_electorate)
+[('Miami 7', 3), ('Race and ethnicity in the United States Census', 3), ('United States Senate', 3), ('Aspect ratio (image)', 3), ('Worcester, Massachusetts', 3), ('Digital object identifier', 4), ('Geographic coordinate system', 4)]
+started at: http://en.wikipedia.org/wiki/Japan
+[('Democratic Republic of the Congo', 3), ('The New York Times', 3), ('Water Resistant mark', 3), ('Robert Falcon Scott', 3), ('Cornell Big Red', 3), ('United States', 4), ('PubMed', 4), ('United Kingdom', 5), ('Digital object identifier', 6)]
+started at: http://en.wikipedia.org/wiki/Listeria_monocytogenes
+[('Authority control', 3), ('UNESCO', 3), ('UTF-8', 3), ('China', 3), ('Iran', 3), ('PubMed Central', 3), ('Virtual International Authority File', 4), ('Turkish language', 4), ('Geographic coordinate system', 6), ('Digital object identifier', 9)]
+started at: http://en.wikipedia.org/wiki/Embraer_E-Jets
+[('Virtual International Authority File', 3), ('JSTOR', 3), ('Germany', 3), ('Bibcode', 3), ('Voiced pharyngeal fricative', 3), ('Geographic coordinate system', 4), ('Indonesia', 5), ('Digital object identifier', 7), ('PubMed', 7)]
+started at: http://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Arlington,_Massachusetts
+[('Digital object identifier', 3), ('Geographic coordinate system', 3), ('International Standard Name Identifier', 3), ('Chiapas', 4), ('United States', 4), ('Italy', 4), ('Japan', 4)]
+started at: http://en.wikipedia.org/wiki/St._Assam%27s_Church
+[('ISO 217', 3), ('Coronal consonant', 3), ('Mathematical economics', 3), ('Iran', 3), ('800 (number)', 4), ('400 (number)', 4), ('United States', 6), ('Digital object identifier', 14)]
+started at: http://en.wikipedia.org/wiki/List_of_Chinese_administrative_divisions_by_GDP_per_capita
+[('World Wide Web Consortium', 3), ('Arts and Humanities Citation Index', 3), ('Dolenje Lakovnice', 3), ('Cambridge University Press', 3), ('400 (number)', 4), ('PubMed', 4), ('List of Google products', 5), ('China', 5), ('Digital object identifier', 6), ('United States', 6), ('Geographic coordinate system', 7)]
+started at: http://en.wikipedia.org/wiki/Empire_(film_magazine)
+[('Provinces of Thailand', 3), ('New Zealand', 3), ('Geographic coordinate system', 3), ('Supreme Court of the United States', 3), ('Thailand', 3), ('Digital object identifier', 7), ('PubMed', 9)]
+started at: http://en.wikipedia.org/wiki/Taiwanofungus_camphoratus
+[('France', 3), ('Close back rounded vowel', 3), ('PubMed', 3), ('PubMed Central', 3), ('Digital object identifier', 5), ('International Phonetic Alphabet', 6)]
+started at: http://en.wikipedia.org/wiki/Citibank_Plaza
+[('Virtual International Authority File', 3), ('MacArthur Fellows Program', 3), ('PubMed', 3), ('Russia', 3), ('Eastern Orthodox Church', 3), ('China', 3), ('Digital object identifier', 4), ('United States', 5)]
+started at: http://en.wikipedia.org/wiki/Heteroptera
+[('Bibliothque nationale de France', 3), ('International Standard Serial Number', 3), ("People's Army of Vietnam", 3), ('German National Library', 3), ('United States', 3), ('United Kingdom', 3), ('France', 3), ('Integrated Authority File', 3), ('OCLC', 3), ('Library of Congress Control Number', 4), ('PubMed', 4), ('Authority control', 4), ('Virtual International Authority File', 5), ('Geographic coordinate system', 5), ('Digital object identifier', 6)]
+started at: http://en.wikipedia.org/wiki/Body_volume_index
+[('Austria', 3), ('Brazil', 3), ('1842 in Scotland', 3), ('Eastern Catholic Churches', 3), ('Geographic coordinate system', 3), ('Public domain', 3), ('United States', 4), ('New York City', 5), ('PubMed Central', 5), ('PubMed', 7), ('Digital object identifier', 8)]
+started at: http://en.wikipedia.org/wiki/Ian_Turner_(rower)
+[('International Phonetic Alphabet', 3), ('Grammatical case', 3), ('India', 3), ('C++', 3), ('PubMed Central', 3), ('Digital object identifier', 8), ('PubMed', 14)]
+started at: http://en.wikipedia.org/wiki/Journal_of_Vertebrate_Paleontology
+[('Ford Motor Company', 3), ('United States', 3), ('Geographic coordinate system', 3), ('Authority control', 4), ('PubMed', 4), ('China', 4), ('Digital object identifier', 8)]
+started at: http://en.wikipedia.org/wiki/Music_of_Kentucky
+[('Sovereign state', 3), ('United States', 3), ('Glottolog', 3), ('University of Michigan', 3), ('Swedish language', 3), ('Canada', 4), ('United Kingdom', 5), ('Digital object identifier', 6)]
+started at: http://en.wikipedia.org/wiki/1962_in_baseball
+[('National Register of Historic Places', 3), ('ISO/IEC 5218', 3), ('Sage Publications', 3), ('Shabbat', 3), ('Antenna (radio)', 3), ('International Standard Name Identifier', 3), ('United States', 5), ('Digital object identifier', 12)]
+started at: http://en.wikipedia.org/wiki/Biological_classification
+[('David', 3), ('Australian House of Representatives', 3), ('United States', 4), ('District (China)', 4), ('JSTOR', 5), ('Geographic coordinate system', 5), ('Digital object identifier', 14)]
+started at: http://en.wikipedia.org/wiki/Pula
+[('Toei Mita Line', 3), ('United States Department of Transportation', 3), ('March Road', 3), ('Time zone', 3), ('Geographic coordinate system', 3), ('PubMed', 3), ('Navrongo', 3), ('India', 4), ('Digital object identifier', 4)]
+started at: http://en.wikipedia.org/wiki/1998_Kansas_State_Wildcats_football_team
+[('Saginaw, Texas', 3), ('National Register of Historic Places', 3), ('United States', 3), ('PubMed', 4), ('Geographic coordinate system', 5), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Watchtower_(magic)
+[('Library of Congress Control Number', 3), ('Achaemenid Empire', 3), ('Peloponnese', 3), ('The New York Times', 3), ('United Kingdom', 4), ('International Standard Name Identifier', 4), ('Dependent territory', 4), ('OCLC', 4), ('PubMed', 5), ('Greece', 5), ('Digital object identifier', 12)]
+started at: http://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+[('World War II', 3), ('Geographic coordinate system', 3), ('PubMed', 3), ('Switzerland', 3), ('Norway', 3), ('Wikipedia', 3), ('Library of Congress Control Number', 4), ('Digital object identifier', 4), ('Integrated Authority File', 4)]
+started at: http://en.wikipedia.org/wiki/Mike_Oldfield
+[('', 3), ('Soviet Union', 3), ('Prophets in Islam', 3), ('ISO 31-2', 3), ('Chencang District', 3), ('France', 3), ('The New York Times', 3), ('European Union', 3), ('Romania', 3), ('ISO 21500', 3), ('PubMed Central', 3), ('Sovereign state', 3), ('Japan', 3), ('United States', 4), ('German language', 4), ('Greek language', 4), ('PubMed', 5), ('Digital object identifier', 9)]
+started at: http://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+[('Communism', 3), ('Order of the British Empire', 3), ('Judo', 3), ('Virtual International Authority File', 3), ('Geographic coordinate system', 3), ('United States', 4), ('Digital object identifier', 6), ('PubMed', 9)]
+started at: http://en.wikipedia.org/wiki/9th_Guldbagge_Awards
+[('Gallaecia', 3), ('United Kingdom', 3), ('Social networking service', 3), ('Bibcode', 3), ('Authority control', 3), ('Digital object identifier', 5), ('Geographic coordinate system', 5)]
+started at: http://en.wikipedia.org/wiki/Michigan
+[('India', 3), ('Netherlands', 3), ('Continuous function', 3), ('Spanish language', 3), ('United Kingdom', 3), ('Germany', 3), ('Letter case', 4), ('Digital object identifier', 4), ('Geographic coordinate system', 4), ('Italy', 4)]
+started at: http://en.wikipedia.org/wiki/Aristide_Laurent
+[('South Korea', 3), ('ACT UP', 3), ('Vice Versa (magazine)', 3), ('Personal Rights in Defense and Education', 3), ('Library of Congress', 3), ('Drum (American magazine)', 3), ('Dale Jennings', 3), ('One, Inc. v. Olesen', 3), ('Germany', 3), ('Frank Kameny', 3), ('Society for Human Rights', 3), ('Stonewall riots', 3), ('Barbara Gittings', 3), ('W. Dorr Legg', 3), ('Los Angeles', 3), ('Authority control', 3), ('List of LGBT actions in the United States prior to the Stonewall riots', 4), ('Oscar Wilde Bookshop', 4), ('Columbia Queer Alliance', 4), ('Henry Gerber', 4), ('United States', 4), ('Troy Perry', 4), ('Kay Lahusen', 4), ('James Gruber', 4), ('Athletic Model Guild', 5), ('Time zone', 5), ('Jos Sarria', 5), ('Bob Mizer', 5), ('Digital object identifier', 5), ('Homophile', 5), ('Harry Hay', 5), ('ONE, Inc.', 5), ('Daughters of Bilitis', 6), ('Black Cat Tavern', 7), ('Jack Nichols (activist)', 7), ('Knights of the Clock', 8), ('The Advocate', 10), (None, 152), ('Aristide Laurent', 156)]
+started at: http://en.wikipedia.org/wiki/Avon_Park,_Florida
+[('Nauru', 3), ('Greek language', 3), ('Germany', 3), ('Indonesia', 3), ('List of geological features on Mercury', 3), ('Bibcode', 3), ('English language', 4), ('United States', 5), ('Digital object identifier', 7)]
+started at: http://en.wikipedia.org/wiki/Animal
+[('South Africa', 3), ('Shin-Anj Station', 3), ('Unified Modeling Language', 3), ('Professional Association of Diving Instructors', 3), ('United Kingdom', 4), ('United States', 4), ('PubMed Central', 4), ('PubMed', 5), ('Bibcode', 5), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/List_of_tollways_in_Texas
+[('United States Census Bureau', 3), ('Authority control', 3), ('Cubic honeycomb', 3), ('Singing', 3), ('Hadith', 3), ('Beijing', 3), ('China', 3), ('Romanization of Armenian', 3), ('New York', 3), ('Catholic Church', 4), ('United States', 4), ('PubMed', 6), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Altan_Erdogan
+[('Tutong District', 3), ('World War II', 3), ('Geographic coordinate system', 3), ('Gainsborough (crater)', 3), ('Russia', 3), ('PubMed', 3), ('Australia', 4), ('International Standard Serial Number', 4), ('United States', 5), ('Digital object identifier', 9)]
+started at: http://en.wikipedia.org/wiki/Mount_Dandenong_(Victoria)
+[('French language', 3), ('Defamation', 3), ('DMOZ', 3), ('United Kingdom', 3), ('Greek language', 3), ('Mexico', 3), ('400 (number)', 3), ('Italy', 3), ('San Diego State University', 3), ('PubMed Central', 3), ('Case citation', 3), ('Japan', 3), ('Nova Scotia', 4), ('700 (number)', 5), ('300 (number)', 5), ('Digital object identifier', 5), ('PubMed', 7)]
+started at: http://en.wikipedia.org/wiki/Arado_Ar_96
+[('Italy', 3), ('United States', 5), ('PubMed', 5), ('Digital object identifier', 11)]
+started at: http://en.wikipedia.org/wiki/Blood_Order
+[('IEC 80000-13', 3), ('Authority control', 3), ('Administration (probate law)', 3), ('United States', 3), ('Russia', 3), ('Switzerland', 3), ('Village', 3), ('OCLC', 3), ('Cylindrical equal-area projection', 3), ('Geographic coordinate system', 4), ('Canada', 5), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/Peter_of_Lichfield
+[('Class (set theory)', 3), ('Latin', 3), ('Italian language', 3), ('ISO 11992', 3), ('', 4), ('Spain', 4), ('United States', 4), ('Digital object identifier', 6), ('PubMed', 8)]
+started at: http://en.wikipedia.org/wiki/Political_prisoner
+[('Chief executive officer', 3), ('United Kingdom', 3), ('Common Criteria', 3), ('JPEG 2000', 3), ('Public domain', 3), ('PubMed Central', 3), ('Bibcode', 5), ('Digital object identifier', 17)]
+started at: http://en.wikipedia.org/wiki/Iran
+[('Australia', 3), ('International Organization for Standardization', 3), ('Geographic coordinate system', 3), ('Prolog', 3), ('Authority control', 4), ('PubMed', 4), ('Library of Congress Control Number', 7), ('United States', 7), ('Digital object identifier', 11)]
+started at: http://en.wikipedia.org/wiki/International_Music_Score_Library_Project
+[('French language', 3), ('Spain', 3), ('Functional analysis', 3), ('United States Census Bureau', 3), ('United States', 3), ('France', 3), ('Geographic coordinate system', 3), ('International Standard Name Identifier', 3), ('Bibcode', 3), ('United Kingdom', 4), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Gridiron_Australia
+[('English language', 3), ('Species', 3), ('Gridiron Australia', 3), ('Digital object identifier', 3), ('United States', 3), ('Dependent territory', 3), ('France', 4), ('Geographic coordinate system', 6), ('PubMed', 9)]
+started at: http://en.wikipedia.org/wiki/Birmingham
+[('Komrom-Esztergom County', 3), ('World War II', 3), ('Saint Barthlemy', 3), ('United Kingdom', 3), ('OCLC', 3), ('Russia', 3), ('Database', 4), ('Digital object identifier', 6), ('Geographic coordinate system', 6)]
+started at: http://en.wikipedia.org/wiki/Kowloon
+[('Kerman County', 3), ('Digital object identifier', 11)]
+started at: http://en.wikipedia.org/wiki/La_Bruffi%C3%A8re
+[('India', 3), ('Chancellor (education)', 3), ('Italy', 3), ('PubMed', 3), ('World War II', 4), ('New York City', 4), ('Geographic coordinate system', 5), ('Digital object identifier', 8)]
+started at: http://en.wikipedia.org/wiki/UK
+[('Chicago Sun-Times', 3), ('Ancient Greece', 3), ('Virtual International Authority File', 3), ('Latin', 3), ('Digital object identifier', 3), ('United States', 4), ('PubMed', 5)]
+started at: http://en.wikipedia.org/wiki/%C5%9Ar%C4%81vaka
+[('Italy', 3), ('Foundation (nonprofit)', 3), ('PBS', 3), ('GNU Compiler Collection', 3), ('United Kingdom', 3), ('Geographic coordinate system', 3), ('France', 4), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Latvia
+[('Thomassique', 3), ('Geographic coordinate system', 3), ('German language', 3), ('Turkey', 3), ('PubMed Central', 3), ('Digital object identifier', 5)]
+started at: http://en.wikipedia.org/wiki/List_of_flag_bearers_for_France_at_the_Olympics
+[('Australia', 3), ('OpenDocument', 3), ('Aviation Week & Space Technology', 3), ('International Standard Serial Number', 4), ('JPEG 2000', 4), ('Mersin Province', 4), ('PubMed', 4), ('Digital object identifier', 9)]
+started at: http://en.wikipedia.org/wiki/Slapshock
+[('Scotia Plate', 3), ('HOW (magazine)', 3), ('Philippine Mobile Belt', 3), ('Virtual International Authority File', 3), ('Belgium', 3), ("Writer's Digest", 4), ('Geographic coordinate system', 4), ('Bibliothque nationale de France', 5), ('Digital object identifier', 6), ('United States', 6)]
+started at: http://en.wikipedia.org/wiki/Sir_James_Langham,_2nd_Baronet
+[('Latin', 3), ('United States', 3), ('Pinyin', 3), ('Authority control', 4), ('Geographic coordinate system', 4), ('OCLC', 5), ('PubMed', 6), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Authority_control
+[('India', 3), ('Virtual International Authority File', 3), ('Philippines', 3), ('Germany', 3), ('PBN Broadcasting Network, Inc.', 3), ('Azerbaijan', 3), ('OCLC', 4), ('United States', 5), ('Digital object identifier', 6)]
+started at: http://en.wikipedia.org/wiki/Second_grade
+[('Barker Burnell', 3), ('Poland', 3), ('World War II', 3), ('Virtual International Authority File', 3), ('United Kingdom', 3), ('Canada', 3), ('Integrated Authority File', 3), ('Italy', 3), ('Language family', 3), ('Organisation for Economic Co-operation and Development', 3), ('Royal Navy', 3), ('Digital object identifier', 7), ('United States', 7)]
+started at: http://en.wikipedia.org/wiki/The_Electric_Age
+[('International Organization for Standardization', 3), ('United Kingdom', 3), ('French language', 3), ('PubMed', 4), ('Geographic coordinate system', 6), ('Digital object identifier', 9), ('United States', 9)]
+started at: http://en.wikipedia.org/wiki/Russia
+[('Central European Time', 3), ('United States', 3), ('United Kingdom', 3), ('Yus', 3), ('Eastern European Time', 3), ('UTC02:00', 3), ('RM-ODP', 3), ('PubMed', 3), ('OCLC', 3), ('800 (number)', 4), ('400 (number)', 4), ('500 (number)', 4), ('300 (number)', 9), ('Digital object identifier', 15)]
+started at: http://en.wikipedia.org/wiki/Romance_novel
+[('Deterministic context-free language', 3), ('Democratic Party (United States)', 3), ('United States', 3), ('Geographic coordinate system', 3), ('Marriage', 3), ('International System of Units', 3), ('Uniform resource locator', 4), ('India', 5), ('PubMed', 6), ('Digital object identifier', 8)]
+started at: http://en.wikipedia.org/wiki/KIIT_School_of_Computer_Application
+[('Persian language', 3), ('Canada', 3), ('Outline of political science', 3), ('Glottolog', 3), ('Social networking service', 3), ('Geographic coordinate system', 5), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Special_Court_for_Sierra_Leone
+[('Rouen', 3), ('Devanagari', 3), ('List of rocks on Mars', 3), ('International Organization for Standardization', 3), ('Afrikaans', 3), ('', 4), ('English language', 4), ('United States', 4), ('International Standard Name Identifier', 4), ('Digital object identifier', 8), ('PubMed', 8)]
+started at: http://en.wikipedia.org/wiki/Arrondissements_of_the_Creuse_department
+[('English language', 3), ('Spain', 3), ('Sweden', 3), ('Computer Modern', 3), ('Johnson Doctrine', 3), ('International Energy Agency', 3), ('PubMed', 3), ('Greek language', 3), ('Digital object identifier', 15)]
+started at: http://en.wikipedia.org/wiki/Indiana
+[('Hebrew language', 3), ('Gautama Buddha', 3), ('American Civil War', 3), ('Germany', 3), ('PubMed', 3), ('Hindi', 3), ('International Standard Name Identifier', 3), ('PubMed Central', 3), ('Digital object identifier', 4), ('Geographic coordinate system', 4), ('United States', 7)]
+started at: http://en.wikipedia.org/wiki/U.S._Route_40_Alternate_(Keysers_Ridge%E2%80%93Cumberland,_Maryland)
+[('British Columbia', 3), ('United Kingdom', 3), ('Beizama (Gipuzkoa)', 3), ('England', 3), ('PubMed', 4), ('Latin', 5), ('Geographic coordinate system', 6), ('Digital object identifier', 10)]
+started at: http://en.wikipedia.org/wiki/Regular_season
+[('UEFA Europa League', 3), ('Spain', 3), ('The Football Association', 3), ('Major League Baseball', 3), ('Wales', 3), ('World War II', 3), ('Portugal', 3), ('Swansea City A.F.C.', 3), ('Formula One', 3), ('Geographic coordinate system', 3), ('Russia', 3), ('Belarus', 3), ('Argentina', 3), ('England', 3), ('South Korea', 4), ('New Zealand', 4), ('Michigan', 4), ('Brazil', 4), ('Tennis', 4), ('Copa Libertadores', 4), ('Italy', 4), ('Ice hockey', 4), ('PubMed', 4), ('Baseball', 5), ('Motorsport', 6), ('Australia', 6), ('France', 6), ('Rugby union', 7), ('China', 7), ('United States', 9), ('Association football', 10), ('Basketball', 11), (None, 188), ('Season (sports)', 189)]
