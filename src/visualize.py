@@ -75,7 +75,7 @@ class Plotter:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-d', '--data', default='data.txt', help='location of file that contains data')
+    parser.add_argument('-d', '--data', default='../results/data.txt', help='location of file that contains data')
     parser.add_argument('--dist-matrix', action='store_true', help='include this option if the data file is a distance matrix instead of features')
     args = parser.parse_args()
     use_dist_matrix = args.dist_matrix

@@ -3,8 +3,8 @@ from collections import defaultdict
 import ast
 import math
 
-data_file = open("data.txt")
-distance_file = open("bhattacharyya_distance.txt", "a")
+data_file = open("../results/data.txt")
+distance_file = open("../results/bhattacharyya_distance.txt", "a")
 distance_file.truncate()
 
 #Dictionary of the discrete distributions found by the crawler
